@@ -4,6 +4,20 @@ This repository has the aim storing all artefacts (image dataset) used in the re
 
 ## Authors 
 
+
+Rubens de Castro Pereira(a,b)
+Osmar Luiz Ferreira de Carvalho (d)
+Edson Hirose (c)
+Ronaldo Martins da Costa (a)
+Dıbio Leandro Borges (d)
+
+a) Institute of Informatics, Federal University of Goiás, Goiânia, Go, Brazil
+b) EMBRAPA Rice and Beans, GO-462, km 12, Santo Antônio de Goiás, Go, Brazil
+c) EMBRAPA Soybean, GO-462, km 12, Santo Antonio de Goias, GO, Brazil
+d) Department of Computer Science, University of Brasília, Brasılia, DF, Brazil
+
+
+
 ## Abstract 
 
 ## Images Datasets
