@@ -2,7 +2,7 @@
 This repository has the aim storing all artefacts (image dataset) used in the research related to the paper.
 
 
-## Authors 
+### Authors 
 
 
 - Rubens de Castro Pereira(a,b)
@@ -18,13 +18,13 @@ d) Department of Computer Science, University of Brasília, Brasılia, DF, Brazi
 
 
 
-## Abstract 
+### Abstract 
 
-## Images Datasets
+### Images Datasets
 
-### Image dataset used in training phase 
+#### Image dataset used in training phase 
 
-### Image dataset used in whiteflies detection 
+#### Image dataset used in whiteflies detection 
 
-## Images used in the paper
+### Images used in the paper
 
