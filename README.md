@@ -5,7 +5,7 @@ This repository has the aim storing all artefacts (image dataset) used in the re
 ### Authors 
 
 
-- Rubens de Castro Pereira(a,b)
+- Rubens de Castro Pereira (a,b)
 - Osmar Luiz Ferreira de Carvalho (d)
 - Edson Hirose (c)
 - Ronaldo Martins da Costa (a)
