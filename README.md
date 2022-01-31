@@ -31,3 +31,11 @@ This paper presents a novel strategy to detect and classify adult whiteflies and
 <li>Images used in the paper [:arrow_right:](https://github.com/rubenscp/DetectionWhitefliesDeepLearning/tree/main/PaperImages) </li>
 </ul>
 
+alçs kjaçsk alçksasç
+
+
+- Images dataset used in training phase [:arrow_right:](https://github.com/rubenscp/DetectionWhitefliesDeepLearning/tree/main/ImagesDatasetTraining) </li>
+- Images dataset used in whiteflies detection [:arrow_right:](https://github.com/rubenscp/DetectionWhitefliesDeepLearning/tree/main/ImagesOfWhitefliesDetection) </li>
+- Images used in the paper [:arrow_right:](https://github.com/rubenscp/DetectionWhitefliesDeepLearning/tree/main/PaperImages) </li>
+
+
