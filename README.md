@@ -29,6 +29,6 @@ Images dataset used in training phase
 
 Images dataset used in whiteflies detection
 
-Images used in the paper :arrow_right:  [Link text Here](https://link-url-here.org)
+Images used in the paper [:arrow_right:](https://github.com/rubenscp/DetectionWhitefliesDeepLearning/tree/main/PaperImages)
 
 
