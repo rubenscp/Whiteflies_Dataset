@@ -25,9 +25,9 @@ This paper presents a novel strategy to detect and classify adult whiteflies and
 
 ### Images Datasets
 
-#### Image dataset used in training phase 
+#### Images dataset used in training phase 
 
-#### Image dataset used in whiteflies detection 
+#### Images dataset used in whiteflies detection 
 
 ### Images used in the paper
 
